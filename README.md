@@ -1,6 +1,12 @@
 # Multivariate Linear-Regression
-Python Codes for Gradient Descent (General), Gradient Descent (Exact Line Search), Stochastic Gradient Descent (General), 
-Stochastic Gradient Descent (Exact Line Search), Conjugate Gradient Method.
+- Python Codes 
+1. Gradient Descent (General), 
+2. Gradient Descent (Exact Line Search), 
+3. Stochastic Gradient Descent (General), 
+4. Stochastic Gradient Descent (Exact Line Search), 
+5. Conjugate Gradient Method,
+6. Newton method
+7. Quasi-Newton Method
 
  - Applications
 1. Polynomial Regression
