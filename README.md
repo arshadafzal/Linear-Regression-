@@ -1,4 +1,4 @@
-# Multivariate Linear-Regression
+# Multivariate Regression
 - Python Codes 
 1. Gradient Descent (General), 
 2. Gradient Descent (Exact Line Search), 
